@@ -1,0 +1,29 @@
+# tugas-1_praktikum-pemweb_Pert-4
+
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "This is a static template with no bundling",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/120140001-RauliSipakkar/tugas-1_praktikum-pemweb_Pert-4/new/main?readme=1"
+  },
+  "keywords": [
+    "static",
+    "template",
+    "github"
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "hhttps://github.com/120140001-RauliSipakkar/tugas-1_praktikum-pemweb_Pert-4/new/main?readme=1"
+  },
+  "homepage": "https://github.com/120140001-RauliSipakkar/tugas-1_praktikum-pemweb_Pert-4/new/main?readme=1",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
